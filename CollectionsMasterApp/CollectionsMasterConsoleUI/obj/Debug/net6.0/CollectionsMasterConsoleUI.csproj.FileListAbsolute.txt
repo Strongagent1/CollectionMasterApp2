@@ -1,0 +1,15 @@
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\net6.0\CollectionsMasterConsoleUI.exe
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\net6.0\CollectionsMasterConsoleUI.deps.json
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\net6.0\CollectionsMasterConsoleUI.runtimeconfig.json
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\net6.0\CollectionsMasterConsoleUI.dll
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\net6.0\CollectionsMasterConsoleUI.pdb
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.csproj.AssemblyReference.cache
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.AssemblyInfoInputs.cache
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.AssemblyInfo.cs
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.dll
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\refint\CollectionsMasterConsoleUI.dll
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.pdb
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\CollectionsMasterConsoleUI.genruntimeconfig.cache
+C:\Users\stron\Desktop\repos2\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\net6.0\ref\CollectionsMasterConsoleUI.dll
